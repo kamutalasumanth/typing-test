@@ -1,16 +1,51 @@
-# React + Vite
+# ⌨️ TypeSpeed – Typing Speed Test Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive **Typing Speed Test Web Application** built using **React + Vite**.  
+This project helps users measure their typing performance by calculating Words Per Minute (WPM), accuracy, and typing errors in real time.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## React Compiler
+- ✅ Real-time typing speed calculation (WPM)
+- ✅ Accuracy and error tracking
+- ✅ Random typing paragraphs
+- ✅ Multiple timer options (30s / 60s / 120s)
+- ✅ Live text highlighting (correct & incorrect input)
+- ✅ Restart test functionality
+- ✅ Clean and responsive UI
+- ✅ Fast performance using Vite
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React.js
+- Vite
+- HTML5
+- CSS3
+- JavaScript (ES6)
+
+---
+
+## 📦 Installation & Run Locally
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/kamutalasumanth/typing-test.git
+Navigate to project folder:
+cd typing-test
+Install dependencies:
+npm install
+Start development server:
+npm run dev
+Open: http://localhost:5173
+🎯 Project Purpose
+
+This project was developed to practice modern frontend development and build a real-world typing test platform useful for students and professionals.
+
+👨‍💻 Author
+
+Sumanth Kamutala
+```
