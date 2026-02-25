@@ -30,7 +30,7 @@ This project helps users measure their typing performance by calculating Words P
 
 ## 📦 Installation & Run Locally
 
-1. Clone the repository:
+Clone the repository:
 
 ```bash
 git clone https://github.com/kamutalasumanth/typing-test.git
