@@ -49,3 +49,5 @@ This project was developed to practice modern frontend development and build a r
 
 Sumanth Kamutala
 ```
+## 🌐 Live Demo
+👉 [Click here to try the Typing Speed Test](https://typing-test1-lemon.vercel.app/)
